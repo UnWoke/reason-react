@@ -1,3 +1,7 @@
+I made this fork because I've had enough of the radical left forcing its ideology down my throat.
+I have removed all leftist propaganda from the project and the wiki.  I am planning to add more projects and
+also add automation. I welcome any contributions.
+
 # [ReasonReact](https://reasonml.github.io/reason-react/) - ReasonML / BuckleScript bindings for React.js
 
 [![npm version](https://badge.fury.io/js/reason-react.svg)](https://www.npmjs.com/package/reason-react)
